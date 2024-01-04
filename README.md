@@ -49,7 +49,7 @@ NABEEL-AHMED-JAMIL/javamultiplex
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React JS](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![Postgre](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgre)
+![Oracle SQL](https://img.shields.io/badge/-oracle-black?style=for-the-badge&logo=oracle)
 ![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
