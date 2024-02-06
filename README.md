@@ -31,6 +31,10 @@ I am a Software Engineer with 2+ years of experience in web design and developme
 		<th>Database</th>
 		<td>Oracle,MS SQL</td>
 	</tr>
+ <tr>
+		<th>CI/CD</th>
+		<td>Jenkins,Docker,Ansible</td>
+	</tr>
 
   <tr>
 		<th>Development tools</th>
