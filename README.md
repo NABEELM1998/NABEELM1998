@@ -2,7 +2,7 @@
 
 <h3>Summary</h3>
 <p>
-I am a Software Engineer with 2+ years of experience in web design and development using Java. Implemented front-end user interface technologies such as React JS and hands-on experience in developing backend applications using RESTful services. I am a problem solver, team player with excellent interpersonal skills that motivated and eager to broaden my knowledge to seek new opportunities andto participate in the company growth.
+I am a Software Engineer with 3 years of experience in web design and development using Java. Implemented front-end user interface technologies such as React JS and hands-on experience in developing backend applications using RESTful services. I am a problem solver, team player with excellent interpersonal skills that motivated and eager to broaden my knowledge to seek new opportunities andto participate in the company growth.
 
 </p>
 
